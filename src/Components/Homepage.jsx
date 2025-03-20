@@ -63,6 +63,7 @@ const Homepage = () => {
             <option value="E-commerce Store">E-commerce Store</option>
             <option value="Portfolio Website">Portfolio Website</option>
             <option value="Blog">Blog</option>
+            <option value="Other">Other</option>
           </select>
 
           <label className="block font-medium mt-4">Why do you need a website?</label>
